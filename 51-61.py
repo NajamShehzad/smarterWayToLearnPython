@@ -1,5 +1,8 @@
 # How to use while loop python same as javscript
 num = 0
+newname,newage = "woww",55
+print(newage)
+print(newname) 
 while num < 10:
     print("hello")
     num += 1
